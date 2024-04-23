@@ -1,24 +1,51 @@
-import logo from './logo.svg';
+import { Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+//  main links
+import Loved from './pages/Loved';
+import Other from './pages/Other';
+
+// core family
+import Teddy from './pages/Teddy';
+import Eva from './pages/Eva';
+import Yupeng from './pages/Yupeng';
+import Zoey from './pages/Zoey';
+
+// hypotheses and co
+import Minimo from './pages/Minimo';
+
+// other articles
+import ALP from './pages/ALP';
+import Eschaton from './pages/Eschaton';
+
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+       <Routes>
+          {/* main links */}
+          <Route path="/" element={<Home />} />
+          <Route path="/loved" element={<Loved />} />
+          <Route path="/other" element={<Other />} />
+          
+
+
+          {/* teddy's family  */}
+          <Route path="/teddy" element={<Teddy />} />
+          <Route path="/eva" element={<Eva />} />
+          <Route path="/yupeng" element={<Yupeng />} />
+          <Route path="/zoey" element={<Zoey />} />
+          <Route path="/yupeng" element={<Yupeng />} />
+
+          {/* hypotheses and co */}
+          <Route path="/minimo" element={<Minimo />} />
+          
+          {/* other articles */}
+          <Route path="/alp" element={<ALP />} />
+          <Route path="/eschaton" element={<Eschaton />} />
+       </Routes>
+    </>
   );
 }
 
