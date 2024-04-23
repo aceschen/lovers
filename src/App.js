@@ -3,6 +3,7 @@ import Home from './pages/Home';
 //  main links
 import Loved from './pages/Loved';
 import Other from './pages/Other';
+import Lovers from './pages/Lovers';
 
 // core family
 import Teddy from './pages/Teddy';
@@ -28,6 +29,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/loved" element={<Loved />} />
           <Route path="/other" element={<Other />} />
+          <Route path="/lovers" element={<Lovers />} />
           
 
 

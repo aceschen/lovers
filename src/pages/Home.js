@@ -27,7 +27,7 @@ const Home = () => {
 
 				<p>
 				+================================================================================+
-				|                                  QUICK LINKS                                   |
+				|                                   NAVIGATION                                   |
 				| <NavLink to='/loved' className={'link'}>Loved Ones</NavLink> - main articles about anyone that contributors love.                |
 				| <NavLink to='/other' className={'link'}>Other Articles</NavLink> - additional information relevant to people's loved ones.       |
 				| <NavLink to='/lovers' className={'link'}>Contributors</NavLink> - a list of all contributors and their edited articles.           |
@@ -38,8 +38,8 @@ const Home = () => {
 				+================================================================================+
 				|                                      NEWS                                      |
 				|                                                                                |
-				|                           Lovers in a Dangerous Time                           |
-				|                                   04/12/2025                                   |
+				| <b>Lovers in a Dangerous Time</b>                                                     |
+				| 04/12/2025                                                                     |
 				|                                                                                |
 				| Hi, Teddy here! How's it going? It's been a little while. I haven't been       |
 				| working on the wiki much outside of maintenance work here and there, but I'm   |
@@ -52,9 +52,9 @@ const Home = () => {
 				| given the recent blackouts, I'm biting the bullet and doing something I've     |
 				| been thinking about for a while.                                               |
 				|                                                                                |
-				| LOVERS' WRITE-A-THON                                                           |
-				| MAY 9-10, 2025                                                                 |
-				| HOUSTON, TEXAS                                                                 | 
+				|                              LOVERS' WRITE-A-THON                              |
+				|                                 MAY 9-10, 2025                                 |
+				|                                 HOUSTON, TEXAS                                 | 
 				|                                                                                |
 				| Bring your friends, your family, come one, come all - Momo and I are hosting   |
 				| the very first IN-PERSON write-a-thon! Momo recently organized a state-wide    |
@@ -73,7 +73,7 @@ const Home = () => {
 				|                                                                                |
 				| Oh, what's the article goal, you ask? We're aiming for... drumroll, please...  |
 				|                                                                                |
-				| !!! 200 NEW ARTICLES !!!                                                       |
+				|                            !!! 200 NEW ARTICLES !!!                            |
 				|                                                                                |
 				| "But Teddy, doesn't that mean you're doubling the article count?" Why, yes it  |
 				| does. To help generate some ideas for who you might write about, we've         |

@@ -15,7 +15,7 @@ const Teddy = () => {
 				<h1>TEDDY ZHENG</h1>
 				
 				<p>
-				Teddy Zheng (also known as wizard_slayer_713) is a librarian in Houston, Texas, and the creator of Lovers Wiki. 
+				Teddy Zheng (also known as wizard_slayer_713) is a librarian in Houston, Texas, and the creator of <NavLink to='/' className='link'>Lovers Wiki</NavLink>. 
 				</p>
 				<p>
 				,-------------------------------------.<br/>
@@ -40,7 +40,7 @@ const Teddy = () => {
 
 				<h1 id='life'>PERSONAL LIFE</h1>
 				<blockquote>
-				"To be honest? Teddy was a teacher's pet when we were little. He made Mom drive him to the first day of kindergarten, like, an hour early. Do you know how long an hour is when you're five? But the teacher was really sweet about it, she let him pass stuff out and he was so proud of himself when he got home. At the end of the year, they gave him a certificate that said 'Theodore Zheng, Most Helpful Friend'. I think that about sums it up." (November 2024, Allie Zheng) 
+				"To be honest? Teddy was a teacher's pet when we were little. He made Mom drive him to the first day of kindergarten, like, an hour early. Do you know how long an hour is when you're five? But the teacher was really sweet about it, she let him pass stuff out and he was so proud of himself when he got home. At the end of the year, they gave him a certificate that said 'Theodore Zheng, Most Helpful Friend'. I think that about sums it up." (November 2024, <NavLink to='/allie' className='link'>Allie Zheng</NavLink>) 
 				</blockquote>
 
 				<h1 id='career'>CAREER</h1>
@@ -50,15 +50,15 @@ const Teddy = () => {
 
 				<h1 id='lovers-wiki'>LOVERS WIKI</h1>
 				<blockquote>
-				"When Teddy approached me about this, I was deep in grief. I still am now. But it was comforting to know that he was too. When I worked with him, I knew I wouldn't need to explain myself. We took our time on it. Some days were bad for me or him or both of us. I don't think it would have worked out if it was a memorial. That's what I thought it was. A permanent memorial. At least, permanent until we stopped paying for the domain name. But Teddy's heart is too big for it's own good. It has always been about love for him." (January 2025, Anelisa M.)
+				"When Teddy approached me about this, I was deep in grief. I still am now. But it was comforting to know that he was too. When I worked with him, I knew I wouldn't need to explain myself. We took our time on it. Some days were bad for me or him or both of us. I don't think it would have worked out if it was a memorial. That's what I thought it was. A permanent memorial. At least, permanent until we stopped paying for the domain name. But Teddy's heart is too big for it's own good. It has always been about love for him." (January 2025, <NavLink to='/anelisa' className='link'>Anelisa N</NavLink>.)
 				</blockquote>
 				<blockquote>
-				"If Teddy has his mind set on something, I'm there. I'm on it. Doesn't matter what it is, I know his heart is in the right place. He's never let me down so far, and it's been, what, 15 years? (pause) 18?? Wow. We're a small part of the world, just a slice of the internet, but I think this place has helped everyone who came across it, some way, somehow. God knows it's easy to give up. It's hard to love." (November 2024, Plick)
+				"If Teddy has his mind set on something, I'm there. I'm on it. Doesn't matter what it is, I know his heart is in the right place. He's never let me down so far, and it's been, what, 15 years? (pause) 18?? Wow. We're a small part of the world, just a slice of the internet, but I think this place has helped everyone who came across it, some way, somehow. God knows it's easy to give up. It's hard to love." (November 2024, <NavLink to='/plick' className='link'>Plick</NavLink>)
 				</blockquote>
 
 				<h1 id='wishes'>WISHES</h1>
 				<blockquote>
-				"We moved to Houston in early 2024 to be close to Teddy's parents and sister. They see each other a few times a week. Most of the time, he's at work with the kids. When he's at home, we're either working on this or relaxing as much as our bodies and brains will allow. (pause) I'm not sure if there's anything else he would want me to share. There are a few other wishes he's told me, but I'd prefer to keep them secret. He's a little susperstitious (laughing)." (March 2025, Minimo)
+				"We moved to Houston in early 2024 to be close to Teddy's parents and sister. They see each other a few times a week. Most of the time, he's at work with the kids. When he's at home, we're either working on this or relaxing as much as our bodies and brains will allow. (pause) I'm not sure if there's anything else he would want me to share. There are a few other wishes he's told me, but I'd prefer to keep them secret. He's a little susperstitious (laughing)." (March 2025, <NavLink to='/minimo' className='link'>Minimo</NavLink>)
 				</blockquote>
 
 				<h1 id='trivia'>TRIVIA</h1>

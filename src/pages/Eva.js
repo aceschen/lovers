@@ -15,7 +15,7 @@ const Eva = () => {
 				<h1>EVA LU</h1>
 				
 				<p>
-					Eva Lu is a mother and 3rd grade teacher from Hangzhou, China. She is known for doing puzzles, gardening, and making the world’s best banana bread. Currently, she resides in Houston with her husband. 
+					Eva Lu is a mother and 3rd grade teacher from Hangzhou, China. She is known for doing puzzles, gardening, and making the world's best banana bread. Currently, she resides in Houston with her husband. 
 				</p>
 				<p>
 				,-------------------------------------.<br/>

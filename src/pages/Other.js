@@ -14,7 +14,7 @@ const Other = () => {
 				<h1>OTHER ARTICLES</h1>
 				<ul>
 					<li><NavLink to='/alp' className='link'>Autonomous Life Party</NavLink></li>
-					<li><NavLink to='/alt' className='link'>Arbor Labor/Love Taskforce</NavLink></li>
+					<li><NavLink to='/alt' className='link'>Arbor Love/Labor Taskforce</NavLink></li>
 					<li><NavLink to='/eschaton' className='link'>Eschaton</NavLink></li>
 					<li><NavLink to='/teamhypotheses' className='link'>Team Hypotheses</NavLink></li>
 				</ul>
