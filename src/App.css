@@ -48,6 +48,18 @@ ul {
   padding: 0 0 0 24px;
 }
 
+details:hover {
+  cursor: pointer;
+}
+
+details > summary {
+  list-style-type: '+ ';
+}
+
+details[open] > summary {
+  list-style-type: '- ';
+}
+
 .centered {
   text-align: center;
   align-self: center;
@@ -72,6 +84,10 @@ ul {
 .link:hover {
   color: #ffffff;
   background-color: #2d5cf6;
+}
+
+.adtext {
+  margin-bottom: 0;
 }
 
 #header {

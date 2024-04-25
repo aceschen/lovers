@@ -44,7 +44,6 @@ const Eva = () => {
 				But what I really liked was the 鲜牛奶冰砖, always 光明 brand. It was a brick of ice cream and it cost 18 cents. If I wanted that one, I'd have to save up for four days. Which is a long time to a kid! Right? But the thing is, it was always so hot and we wanted to get ice cream on as many days as we could. So I would sit down with your aunt and we'd calculate it - 'okay, if we share one on Tuesday and combine with what we have saved, we'll have enough for two 冰砖 on Wednesday,' things like that. We had a whole system. Yeah, it is like those word problems. (laughing) You learn a lot when you're young that you don't realize." (June 2022)
 				</blockquote>
 				<p>Eva currently maintains a steady supply of ice cream in her freezer. She eats them much more freely than she used to.</p>
-				<p></p>
 
 				<h1 id='career'>CAREER</h1>
 				<p>Eva was also an active part of the local Chinese community and served as president of the Chinese school for six years. Although she retired from teaching public school in 2024 like most of her colleages, she continues to volunteer teach intro-level Chinese to children and adults alike. When asked why, she simply replied, "Why not?" </p>

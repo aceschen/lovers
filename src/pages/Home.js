@@ -29,7 +29,8 @@ const Home = () => {
 				+================================================================================+
 				|                                   NAVIGATION                                   |
 				| <NavLink to='/loved' className={'link'}>Loved Ones</NavLink> - main articles about anyone that contributors love.                |
-				| <NavLink to='/other' className={'link'}>Other Articles</NavLink> - additional information relevant to people's loved ones.       |
+				| <NavLink to='/classifieds' className={'link'}>Classifieds</NavLink> - stories that are still seeking their subjects.                   |
+				| <NavLink to='/world' className={'link'}>World</NavLink> - additional information relevant to people's loved ones.                |
 				| <NavLink to='/lovers' className={'link'}>Contributors</NavLink> - a list of all contributors and their edited articles.           |
 				+================================================================================+
 				</p>

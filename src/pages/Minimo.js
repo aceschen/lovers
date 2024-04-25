@@ -54,11 +54,11 @@ const Minimo = () => {
 					to emulate Rogue Story. After posting about it on the GameFAQ forum, they recruited two more devs 
 					named <NavLink to='/plick' className='link'>Plick</NavLink> and <NavLink to='/cheezer' className='link'>cheezer</NavLink>. 
 					The four teenage nerds quickly became the best of friends. </p>
-				<p>Two years later, they found themselves attending the same university. Momo heard about a two-day puzzlehunt called The Game and signed her and her friends up without telling them. On the morning of the event, they joined forces for good as Team Hypotheses. </p>
+				<p>Two years later, they found themselves attending the same university, where they met <NavLink to='/betbetbet' className='link'>betbetbet</NavLink>. Momo heard about a two-day puzzlehunt called The Game and signed her and her friends up without telling them. On the morning of the event, they joined forces for good as Team Hypotheses. </p>
 				<p>Today, Momo runs a server where the team - now much bigger, drawing in friends of friends of friends - spend their spare time chatting, playing TTRPGs, and streaming games on their endless backlog. They dream of finishing the Rogue Story emulator one day, though it doesn't feel as important as it did when they were 16. </p>
 
 				<h1 id='alt'>ALT RESEARCH</h1>
-				<p>Near the start, Minimo became heavily involved in citizen science efforts to identify the cause of the tree rot. She organized a group called "<NavLink to='/alt' className='link'>Arbor Love/Labor Taskforce</NavLink>" (ALT) that takes weekly samples of both healthy and rotting local trees. After sharing her findings in a weekly blog, ALT chapters have been started in 17 countries, including in all 50 states. ALT findings have led to a taxonomy detailing an expected decay timeline for many common tree species. </p>
+				<p>Near the start, Minimo became heavily involved in citizen science efforts to identify the cause of the tree rot. She organized a group called "Arbor Love/Labor Taskforce" (ALT) that takes weekly samples of both healthy and rotting local trees. After sharing her findings in a weekly blog, ALT chapters have been started in 17 countries, including in all 50 states. ALT findings have led to a taxonomy detailing an expected decay timeline for many common tree species. </p>
 
 				<h1 id='lovers'>CONTRIBUTORS</h1>
 				<ul>

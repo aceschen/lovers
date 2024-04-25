@@ -29,7 +29,7 @@ const Eschaton = () => {
 				<p>A wide variety of wildlife have shown signs of odd, erratic behavior, often culminating in sudden death. Although symptoms appear to align with rabies (vomiting, fearfulness, pupil dilation, hypersensitivity to light, fever, foaming at the mouth, and hydrophobia), animals in captivity with no possible rabies exposure have also been affected. Non-mammals like avians, reptiles, and fish which are normal insusceptible to rabies have also shown similar symptoms. </p>
 
 				<h2>In humans</h2>
-				<p>As of January 1, 2025, some humans have begun showing the same symptoms as fauna, dubbed "Eschaton fever". It is unclear if there are any traceable signs of onset or if it is contagious. Due to censorship, it is unclear how many total cases have occurred and how many cases have led to death. The US government places the worldwide death toll at around 120,000, but some estimate the real number is significantly higher. </p>
+				<p>As of September 1, 2024, some humans have begun showing the same symptoms as fauna, dubbed "Eschaton fever". It is unclear if there are any traceable signs of onset or if it is contagious. Due to censorship, it is unclear how many total cases have occurred and how many cases have led to death. The US government places the worldwide death toll at around 250,000, but some estimate the real number is significantly higher. </p>
 
 				<h2>In weather</h2>
 				<p>The sky is no longer blue.</p>
