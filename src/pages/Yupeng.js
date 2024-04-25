@@ -39,13 +39,13 @@ const Yupeng = () => {
 				<h1 id='life'>PERSONAL LIFE</h1>
 				<p>Although Yupeng is fairly private about his early life, he claims to once have caught a fish that weighed as much as him when he was eight years old.</p>
 				<blockquote>
-				"What? You don't believe me? Ask your uncle next time you see him. We reeled it in together and almost fell straight into the water. It flopped around like crazy! Ah, those were happy days. I suppose it could have been bigger in my memory, but I'll never catch one like that again." (July 2022, translated by Allie Zheng) 
+				"What? You don't believe me? Ask your uncle next time you see him. We reeled it in together and almost fell straight into the water. It flopped around like crazy! Ah, those were happy days. I suppose it could have been bigger in my memory, but I'll never catch one like that again." (July 2022) 
 				</blockquote>
 
 				<h1 id='career'>CAREER</h1>
 				<p>Yupeng has delivered mail for the USPS since he immigrated to Houston in 2001. Despite his injuries, he continues to work twice a week. </p>
 				<blockquote>
-				"The mail is much more interesting nowadays. Less bills and coupons, it's mostly handwritten letters. Some mailboxes get too full because they've stopped decommissioning them. I try to fit them in anyways, sometimes I'll make some space by taking out old magazines and putting them somewhere safe. Just in case someone is coming back for them." (January 2025, translated by Teddy Zheng)
+				"The mail is much more interesting nowadays. Less bills and coupons, it's mostly handwritten letters. Some mailboxes get too full because they've stopped decommissioning them. I try to fit them in anyways, sometimes I'll make some space by taking out old magazines and putting them somewhere safe. Just in case someone is coming back for them." (January 2025)
 				</blockquote>
 
 				<h1 id='death'>DEATH</h1>

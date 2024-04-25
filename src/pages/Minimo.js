@@ -44,7 +44,7 @@ const Minimo = () => {
 				minimo: ARE U AND TEDDY CONSPIRING AGAINST ME? <br/>
  				minimo: HES NOT LETTING ME SEE WHAT HE WRITES <br/>
  				minimo: !!!!!!!!!!!??<br/>
- 				(October 2024, transcribed by Plick) 
+ 				(October 2024) 
  </blockquote>
 				
 				<h1 id='hypotheses'>TEAM HYPOTHESES</h1>
