@@ -14,8 +14,11 @@ const Other = () => {
 				<h1>OTHER ARTICLES</h1>
 				<ul>
 					<li><NavLink to='/alp' className='link'>Autonomous Life Party</NavLink></li>
+					<li>Arbor Love/Labor Taskforce</li>
+					<li>Blackout Regions</li>
 					<li><NavLink to='/eschaton' className='link'>Eschaton</NavLink></li>
-					<li><NavLink to='/skyindex' className='link'>Sky Index</NavLink></li>
+					<li>Sky Index</li>
+					<li>Splashlight DFW</li>
 				</ul>
 			</body>
 		</div>

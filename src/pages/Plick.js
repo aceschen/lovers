@@ -43,7 +43,7 @@ const Plick = () => {
 					<li>Board game: Mansions of Madness (I don't care I'm counting it)</li>
 					<li>Place: Nellie's Ice Cream in St. Paul</li>
 					<li>Weather: Overcast, gently sprinkling</li>
-					<li>Sky color: <NavLink to='/skyindex#plick' className='link'>This one</NavLink></li>
+					<li>Sky color: Amsterdam, August 15, 2024, 18:00</li>
 					<li>Hour of the day: 11pm</li>
 					<li>Memory: Winning The Game is up there</li>
 					<li>Instrument: Cello</li>

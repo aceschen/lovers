@@ -41,7 +41,7 @@ const Cheezer = () => {
 					<li>Board game: Jigsaw puzzles (does that count)</li>
 					<li>Place: My bed</li>
 					<li>Weather: Sunny!!</li>
-					<li>Sky color: <NavLink to='/skyindex#cheezer' className='link'>This one</NavLink></li>
+					<li>Sky color: Van Nuys, March 2, 2025, 14:15</li>
 					<li>Hour of the day: 3pm</li>
 					<li>Memory: Cooking with Team Hypotheses and MY MOM!</li>
 					<li>Instrument: Harp</li>
